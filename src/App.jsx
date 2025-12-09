@@ -13,10 +13,11 @@ const About = lazy(() => import('./pages/About'));
 const Services = lazy(() => import('./pages/Services'));
 const Projects = lazy(() => import('./pages/Projects'));
 const Contact = lazy(() => import('./pages/Contact'));
-
+//a comment 
 function App() {
   return (
     <Router>
+    
       <ScrollToTop />
       <div className="app-container">
         <Header />
