@@ -81,6 +81,7 @@ const Header = () => {
           justify-content: space-between;
           align-items: center;
           padding: 20px;
+          height: 80px;
         }
 
         .logo {
