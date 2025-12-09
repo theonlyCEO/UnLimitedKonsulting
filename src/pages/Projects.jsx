@@ -13,14 +13,14 @@ const Projects = () => {
   ];
 
   const currentProjects = [
-    { name: "RoadSide Assist", position: { top: '10%', left: '50%' } },
-    { name: "Feela", position: { top: '25%', left: '80%' } },
-    { name: "BuildPartner", position: { top: '75%', left: '80%' } },
-    { name: "TravelSA", position: { top: '90%', left: '50%' } },
-    { name: "CareerLaunch", position: { top: '75%', left: '20%' } },
-    { name: "Smart-Schools", position: { top: '25%', left: '20%' } },
-    { name: "Rapid247", position: { top: '50%', left: '10%' } },
-    { name: "Save-the-Baby", position: { top: '50%', left: '90%' } }
+    { name: "RoadSide Assist", position: { top: '10%', left: '39%' } },
+    { name: "Feela", position: { top: '25%', left: '75%' } },
+    { name: "BuildPartner", position: { top: '75%', left: '71%' } },
+    { name: "TravelSA", position: { top: '90%', left: '42%' } },
+    { name: "CareerLaunch", position: { top: '75%', left: '6%' } },
+    { name: "Smart-Schools", position: { top: '25%', left: '6%' } },
+    { name: "Rapid247", position: { top: '50%', left: '6%' } },
+    { name: "Save-the-Baby", position: { top: '50%', left: '77%' } }
   ];
 
   return (
@@ -412,7 +412,7 @@ const Projects = () => {
           
           .map-center {
             padding: 15px 20px;
-            font-size: 0.9rem;
+            font-size: 0.7rem;
           }
           
           .map-node {
